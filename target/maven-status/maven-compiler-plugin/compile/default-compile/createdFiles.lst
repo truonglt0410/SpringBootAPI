@@ -1,0 +1,10 @@
+com\RenterRoomSystem\ManageAPI\models\ResponseObject.class
+com\RenterRoomSystem\ManageAPI\repositories\RoleRepository.class
+com\RenterRoomSystem\ManageAPI\models\Building.class
+com\RenterRoomSystem\ManageAPI\database\Database$1.class
+com\RenterRoomSystem\ManageAPI\controller\RoleController.class
+com\RenterRoomSystem\ManageAPI\database\Database.class
+com\RenterRoomSystem\ManageAPI\ManageApiApplication.class
+com\RenterRoomSystem\ManageAPI\controller\BuildingController.class
+com\RenterRoomSystem\ManageAPI\models\Role.class
+com\RenterRoomSystem\ManageAPI\repositories\BuildingRepository.class
